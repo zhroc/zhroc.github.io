@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>zhroc&#39;s Blog</title>
+    <link>https://zhroc.github.io/en/</link>
+    <description>Recent content on zhroc&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Dec 2023 16:46:06 +0000</lastBuildDate><atom:link href="https://zhroc.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Test</title>
+      <link>https://zhroc.github.io/en/posts/blog-test/</link>
+      <pubDate>Sun, 03 Dec 2023 16:46:06 +0000</pubDate>
+      
+      <guid>https://zhroc.github.io/en/posts/blog-test/</guid>
+      <description>is test is testis test is testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis test</description>
+    </item>
+    
+  </channel>
+</rss>
