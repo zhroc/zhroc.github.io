@@ -2,17 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>zhroc&#39;s Blog</title>
-    <link>https://zhroc.github.io/en/</link>
+    <link>https://zhroc.github.io/</link>
     <description>Recent content on zhroc&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 03 Dec 2023 16:46:06 +0000</lastBuildDate><atom:link href="https://zhroc.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language>
+    <lastBuildDate>Tue, 05 Dec 2023 13:18:05 +0000</lastBuildDate><atom:link href="https://zhroc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://zhroc.github.io/posts/test/</link>
+      <pubDate>Tue, 05 Dec 2023 13:18:05 +0000</pubDate>
+      
+      <guid>https://zhroc.github.io/posts/test/</guid>
+      <description>this new test</description>
+    </item>
+    
+    <item>
+      <title>Newtest</title>
+      <link>https://zhroc.github.io/posts/newtest/</link>
+      <pubDate>Sun, 03 Dec 2023 17:49:14 +0000</pubDate>
+      
+      <guid>https://zhroc.github.io/posts/newtest/</guid>
+      <description>this new test verify actions</description>
+    </item>
+    
     <item>
       <title>Blog Test</title>
-      <link>https://zhroc.github.io/en/posts/blog-test/</link>
+      <link>https://zhroc.github.io/posts/blog-test/</link>
       <pubDate>Sun, 03 Dec 2023 16:46:06 +0000</pubDate>
       
-      <guid>https://zhroc.github.io/en/posts/blog-test/</guid>
+      <guid>https://zhroc.github.io/posts/blog-test/</guid>
       <description>is test is testis test is testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis test</description>
     </item>
     
