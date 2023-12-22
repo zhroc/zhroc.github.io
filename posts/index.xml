@@ -16,32 +16,5 @@
       <description>准备工作 创建好hugo源文件仓库和github pages仓库（均不要添加readme文件）,更新一下索引和软件包 1 2 apt update apt upgrade 下载安装hugo 1 2 3 wget https://github.com/spf13/hugo/releases/download/v0.14/hugo_0.14_amd64.deb dpkg -i hugo*.deb hugo version 创建站点配置主题 1 hugo new site myblog 进入目录初始化git和使用模块方式管理主题 1 2 3 cd myblog/ git init git submodule add https://github.com/zhroc/hugo-PaperMod.git themes/hugo-PaperMod 复制主题中这些文件到站点目录</description>
     </item>
     
-    <item>
-      <title>Test</title>
-      <link>https://zhroc.github.io/posts/test/</link>
-      <pubDate>Tue, 05 Dec 2023 13:18:05 +0000</pubDate>
-      
-      <guid>https://zhroc.github.io/posts/test/</guid>
-      <description>this new test</description>
-    </item>
-    
-    <item>
-      <title>Newtest</title>
-      <link>https://zhroc.github.io/posts/newtest/</link>
-      <pubDate>Sun, 03 Dec 2023 17:49:14 +0000</pubDate>
-      
-      <guid>https://zhroc.github.io/posts/newtest/</guid>
-      <description>this new test verify actions111</description>
-    </item>
-    
-    <item>
-      <title>Blog Test</title>
-      <link>https://zhroc.github.io/posts/blog-test/</link>
-      <pubDate>Sun, 03 Dec 2023 16:46:06 +0000</pubDate>
-      
-      <guid>https://zhroc.github.io/posts/blog-test/</guid>
-      <description>is test is testis test is testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis testis test</description>
-    </item>
-    
   </channel>
 </rss>
