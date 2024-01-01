@@ -1,0 +1,16 @@
+name: Auto Update to Github Pages CNAME.
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - run: echo "cooleryue.cn" > CNAME
+    - uses: actions/upload-artifact@v4
+      with:
+        name: Auto Upload CNAME
+        path: CNAME
