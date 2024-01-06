@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>文章 on zhroc&#39;s Blog</title>
-    <link>https://zhroc.github.io/posts/</link>
+    <link>https://www.cooleryue.cn/posts/</link>
     <description>Recent content in 文章 on zhroc&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 06 Jan 2024 18:27:34 +0800</lastBuildDate><atom:link href="https://zhroc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jan 2024 18:27:34 +0800</lastBuildDate><atom:link href="https://www.cooleryue.cn/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用密钥连接ssh 关闭密码连接ssh</title>
-      <link>https://zhroc.github.io/posts/ssh-disable-password-login/</link>
+      <link>https://www.cooleryue.cn/posts/ssh-disable-password-login/</link>
       <pubDate>Sat, 06 Jan 2024 18:27:34 +0800</pubDate>
       
-      <guid>https://zhroc.github.io/posts/ssh-disable-password-login/</guid>
+      <guid>https://www.cooleryue.cn/posts/ssh-disable-password-login/</guid>
       <description>创建密钥对 首先在客户端设备上打开终端，Windows端打开命令行即可，然后创建密钥对，这里使用ed25519的算法生成key，关于ssh key的各种不同算法的选择可以参考这里 1 ssh-keygen -t ed25519 随后一路回即可，密钥对一般会保存在当前用户的隐藏目录.ssh中，windows用户应该去C:\Us</description>
     </item>
     
     <item>
       <title>博客部署简要记录</title>
-      <link>https://zhroc.github.io/posts/deploy_blog_study/</link>
+      <link>https://www.cooleryue.cn/posts/deploy_blog_study/</link>
       <pubDate>Wed, 06 Dec 2023 21:29:57 +0800</pubDate>
       
-      <guid>https://zhroc.github.io/posts/deploy_blog_study/</guid>
+      <guid>https://www.cooleryue.cn/posts/deploy_blog_study/</guid>
       <description>准备工作 创建好hugo源文件仓库和github pages仓库（均不要添加readme文件）,更新一下索引和软件包 1 2 apt update apt upgrade 下载安装hugo 1 2 3 wget https://github.com/spf13/hugo/releases/download/v0.14/hugo_0.14_amd64.deb dpkg -i hugo*.deb hugo version 创建站点配置主题 1 hugo new site myblog 进入目录初始化git和使用模块方式管理主题 1 2 3 cd myblog/ git init git submodule add https://github.com/zhroc/hugo-PaperMod.git themes/hugo-PaperMod 复制主题中这些文件到站点目录</description>
     </item>
     
