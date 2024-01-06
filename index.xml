@@ -6,7 +6,16 @@
     <description>Recent content on zhroc&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 06 Dec 2023 21:29:57 +0800</lastBuildDate><atom:link href="https://zhroc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jan 2024 18:27:34 +0800</lastBuildDate><atom:link href="https://zhroc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用密钥连接ssh 关闭密码连接ssh</title>
+      <link>https://zhroc.github.io/posts/ssh-disable-password-login/</link>
+      <pubDate>Sat, 06 Jan 2024 18:27:34 +0800</pubDate>
+      
+      <guid>https://zhroc.github.io/posts/ssh-disable-password-login/</guid>
+      <description>创建密钥对 首先在客户端设备上打开终端，Windows端打开命令行即可，然后创建密钥对，这里使用ed25519的算法生成key，关于ssh key的各种不同算法的选择可以参考这里 1 ssh-keygen -t ed25519 随后一路回即可，密钥对一般会保存在当前用户的隐藏目录.ssh中，windows用户应该去C:\Us</description>
+    </item>
+    
     <item>
       <title>博客部署简要记录</title>
       <link>https://zhroc.github.io/posts/deploy_blog_study/</link>
