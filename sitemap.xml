@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.cooleryue.cn/</loc>
-    <lastmod>2024-01-06T18:27:34+08:00</lastmod>
+    <loc>https://www.cooleryue.cn/posts/dingtalk_sso_login/</loc>
+    <lastmod>2024-01-19T12:41:40+08:00</lastmod>
   </url><url>
-    <loc>https://www.cooleryue.cn/posts/ssh-disable-password-login/</loc>
-    <lastmod>2024-01-06T18:27:34+08:00</lastmod>
+    <loc>https://www.cooleryue.cn/</loc>
+    <lastmod>2024-01-19T12:41:40+08:00</lastmod>
   </url><url>
     <loc>https://www.cooleryue.cn/posts/</loc>
+    <lastmod>2024-01-19T12:41:40+08:00</lastmod>
+  </url><url>
+    <loc>https://www.cooleryue.cn/posts/ssh-disable-password-login/</loc>
     <lastmod>2024-01-06T18:27:34+08:00</lastmod>
   </url><url>
     <loc>https://www.cooleryue.cn/posts/deploy_blog_study/</loc>

@@ -6,7 +6,16 @@
     <description>Recent content on zhroc&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 06 Jan 2024 18:27:34 +0800</lastBuildDate><atom:link href="https://www.cooleryue.cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jan 2024 12:41:40 +0800</lastBuildDate><atom:link href="https://www.cooleryue.cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>flask实现网站接入钉钉sso登录</title>
+      <link>https://www.cooleryue.cn/posts/dingtalk_sso_login/</link>
+      <pubDate>Fri, 19 Jan 2024 12:41:40 +0800</pubDate>
+      
+      <guid>https://www.cooleryue.cn/posts/dingtalk_sso_login/</guid>
+      <description>准备工作 首先需要安装好python环境，下载好flask库 注册钉钉开放平台，进入应用开发界面，创建企业内部应用 记录好创建的应用的Client ID (原 AppKey 和 SuiteKey)和Client Secret (原 AppSecret 和 SuiteSecret)这两个数据 流程分析 本文一共需要使用到3个钉钉的api接口，分别是</description>
+    </item>
+    
     <item>
       <title>使用密钥连接ssh 关闭密码连接ssh</title>
       <link>https://www.cooleryue.cn/posts/ssh-disable-password-login/</link>
