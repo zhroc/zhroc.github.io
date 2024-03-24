@@ -6,7 +6,16 @@
     <description>Recent content on zhroc&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 19 Jan 2024 12:41:40 +0800</lastBuildDate><atom:link href="https://www.cooleryue.cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Mar 2024 00:40:26 +0800</lastBuildDate><atom:link href="https://www.cooleryue.cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>周报 #1</title>
+      <link>https://www.cooleryue.cn/posts/life/20240324/</link>
+      <pubDate>Mon, 25 Mar 2024 00:40:26 +0800</pubDate>
+      
+      <guid>https://www.cooleryue.cn/posts/life/20240324/</guid>
+      <description>前言 本篇是对2024-02-25到2024-03-24这段时间生活的记录与思考。 过完年到现在的这段时间里面，其实没有做到什么比较有价值的事情，复习的情况并不算太好，有的考试错过了报名时间，有的考试一考完就感觉要G了，仔细一想感觉这将近一年来又错过了好多的机会，似乎对自己也在慢慢的</description>
+    </item>
+    
     <item>
       <title>flask实现网站接入钉钉sso登录</title>
       <link>https://www.cooleryue.cn/posts/dingtalk_sso_login/</link>
